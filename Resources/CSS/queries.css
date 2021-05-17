@@ -16,10 +16,6 @@
     body {
         font-size: 18px;
     }
-    
-    h2 {
-        font-size: 130%;
-    }
 
     section {
         padding: 60px 0;
@@ -102,7 +98,7 @@
     }
 
     h2 {
-        font-size: 130%;
+        font-size: 150%;
     }
 
     .long-copy {
